@@ -12,7 +12,7 @@ a:hover {
   right: 252px;
   bottom: 0px;
   z-index: 1;
-  width: 30%;
+  width: 40%;
   height: 100%;
 }
 .sidebar .main-info * {
@@ -34,7 +34,7 @@ a:hover {
   overflow: visible;
   width: 60%;
   max-width: 1200px;
-  margin-left: 30%;
+  margin-left: 40%;
   float: none;
   clear: none;
 }
