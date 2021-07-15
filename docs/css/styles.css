@@ -16,8 +16,8 @@ a:hover {
   height: 100%;
 }
 .sidebar .main-info * {
-  -webkit-transition: all 0.3s ease;
-  transition: all 0.3s ease;
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
   opacity: 0;
   -webkit-transform: translateX(-40px);
           transform: translateX(-40px);
