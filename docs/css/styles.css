@@ -9,10 +9,10 @@ a:hover {
   position: fixed;
   left: 0px;
   top: 0px;
-  right: 200px;
+  right: 900px;
   bottom: 0px;
   z-index: 1;
-  width: 30%;
+  width: 20%;
   height: 100%;
 }
 .sidebar .main-info * {
