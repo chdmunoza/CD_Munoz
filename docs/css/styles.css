@@ -9,7 +9,7 @@ a:hover {
   position: fixed;
   left: 0px;
   top: 0px;
-  right: 552px;
+  right: 252px;
   bottom: 0px;
   z-index: 1;
   width: 20%;
@@ -32,9 +32,9 @@ a:hover {
 .main-content {
   position: relative;
   overflow: visible;
-  width: 80%;
+  width: 60%;
   max-width: 1200px;
-  margin-left: 20%;
+  margin-left: 40%;
   float: none;
   clear: none;
 }
